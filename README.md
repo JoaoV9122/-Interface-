@@ -1,5 +1,7 @@
 # Atividade  - Interface Mobile
 Atividade de Interface e Jornada do Usuario
+nome :Joao Vitor Vicente Mendes
+RGM:45968
 
 Banco Master - Interface Mobile
 
@@ -12,3 +14,5 @@ O objetivo é criar uma experiência digital moderna e intuitiva, permitindo que
 - Cartão de Crédito: consulta de limite, faturas e histórico.
 - PIX: envio e recebimento por chave ou QR Code.
 - Boletos: pagamento por digitação ou escaneamento de código de barras.
+
+
